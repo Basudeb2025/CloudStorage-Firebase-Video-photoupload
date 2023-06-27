@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601465397144",
+    "project_id": "storagemediaupload",
+    "storage_bucket": "storagemediaupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601465397144:android:a9cb8aa3cf364bbaeb55ed",
+        "android_client_info": {
+          "package_name": "com.example.storagemediaupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601465397144-6gl9sbt6pnm1b85rqv4ubpmhu989561a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHszNFLYX5M6bB2nKSxrOBFmR3lxxo6mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601465397144-6gl9sbt6pnm1b85rqv4ubpmhu989561a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
